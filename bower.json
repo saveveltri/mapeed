@@ -1,0 +1,30 @@
+{
+  "name": "google-mapeed",
+  "version": "1.0",
+  "homepage": "https://github.com/saveveltri/mapeed",
+  "authors": [
+    "ricmancio <ricmancio@gmail.com>"
+  ],
+  "description": "google-map + twitter integration",
+  "keywords": [
+    "twitter",
+    "google-map",
+    "polymer"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#latest",
+    "google-apis": "GoogleWebComponents/google-apis#latest",
+    "google-signin": "GoogleWebComponents/google-signin#latest",
+    "core-ajax": "Polymer/core-ajax#latest",
+    "google-map": "GoogleWebComponents/google-map#latest"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
